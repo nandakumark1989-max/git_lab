@@ -1,1 +1,1 @@
-echo "Jane's logic is much better"
+echo "Jane's logic is superior, fuck with Bob"
